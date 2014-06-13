@@ -1,0 +1,8 @@
+<meta>
+	<info author="|Mlody|" version="1.0.0" type="script" description="Czas"/>
+
+	<script src="czas.lua" type="server" />
+		<settings>
+		<setting name="*offset" value="[-1]"/>
+	</settings>
+</meta>
